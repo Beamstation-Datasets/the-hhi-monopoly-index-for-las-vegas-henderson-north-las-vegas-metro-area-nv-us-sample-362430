@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Las Vegas-Henderson-North Las Vegas Metro Area, NV, US
 
-> Free BeamStation sample export with 5 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `362430` |
 | Location | Las Vegas-Henderson-North Las Vegas, NV |
 | Category | Restaurants |
-| Full dataset size | 56 records |
-| Free sample size | 5 records (8.93%) |
-| Last export | 2026-04-22T11:01:45.823016+00:00 |
+| Full dataset size | 79 records |
+| Free sample size | 7 records (8.86%) |
+| Last export | 2026-04-29T12:16:56.307418+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-las-vegas-henderson-north-las-vegas-metro-area-nv-us-sample-362430/releases/download/sample-latest/beamstation_362430_restaurants-us-lasvegashendersonnorthlasvegasnv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
