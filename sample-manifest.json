@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3181d70e-0796-4994-ac49-3e2e78656203",
+  "export_job_id": "70f6c686-73ec-4cff-813c-7688e6006946",
   "id_short": 362430,
-  "published_at": "2026-04-22T19:37:58Z",
+  "published_at": "2026-04-30T07:20:36Z",
   "repo_name": "the-hhi-monopoly-index-for-las-vegas-henderson-north-las-vegas-metro-area-nv-us-sample-362430",
   "sample_asset_name": "beamstation_362430_restaurants-us-lasvegashendersonnorthlasvegasnv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/362430/beamstation_362430_restaurants-us-lasvegashendersonnorthlasvegasnv_SAMPLE_DIST.csv",
-  "sample_records": 5,
-  "sample_sha256": "a6da299aac5a542c43b8f1ef045f84a28c0721dbe72bc77f21d684831f3879d1",
-  "sample_size_bytes": 33944,
-  "total_records": 56
+  "sample_records": 7,
+  "sample_sha256": "ffa066ff8b03f0fe236ed336f163fc16e38e3e01748c9983e2c1f25a14624fc0",
+  "sample_size_bytes": 42970,
+  "total_records": 79
 }
